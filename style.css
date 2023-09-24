@@ -6,7 +6,7 @@
 			body {
 				background: #eee;
 				overflow-x: hidden;
-				font-family: sans-serif	;
+				font-family: Manrope, sans-serif;
 			}
 
 			.dark-theme {
@@ -15,6 +15,7 @@
 			    left: 7px;
 			    position: relative;
 			    top: -13px;
+
 			}
 
 			.light-theme {
@@ -119,16 +120,14 @@
 
 			page {
 			    border: 1px solid white;
-			    margin-left: 210px;
 			    display: block;
 			    position: absolute;
 			    top: 111px;
 			    padding: 0 30px;
-			    font-family: sans-serif;
 			    border-top: 1px solid;
 			    transition: all 1s ease-in-out;
 			    right: 0;
-			    width: calc(100% - 217px);
+			    width: calc(100% - 219px);
 			    margin-right: 10px;
 			}
 
@@ -445,12 +444,11 @@
             display: block;
             position: relative;
             padding: 0 30px;
-            font-family: sans-serif;
             border-top: 1px solid;
             transition: all 1s ease-in-out;
             margin-top: 104px;
             margin-left: 0px;
-            width: 100%;
+            width: calc(100% - 1px);
             top: 0;
         }
         .offering-category {

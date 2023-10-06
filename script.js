@@ -103,7 +103,7 @@ offerings = {
 	"apiIntegration": `<h3>API Integration</h3><p>Application Programming Interfaces are available from tons of websites out there, from integrating live feeds from Facebook to back-end user processing systems.</p>`,
 	"trafficMonetization": `<h3>Traffic Monetization</h3><p>Want relevant ads to work for you on your site. I can help set it up to drive users from your content to direct sales relevant to them; giving you commission for every sale.</p>`,
 	"siteSecurity": `<h3>Site Security</h3><p>Worried about getting hacked? It's not such a big issue as it used to be but I can help ensure you that your website will be kept safe from attack.</p>`,
-	"customAnimation": `<h3>Custom Animation</h3><p>Just like here on this site I can code animated parts to your site and giving it a more enjoyable experience to provide.</p>`,
+	"customAnimation": `<h3>Custom Animation</h3><p>Just like here on this site I can code animated parts to your site and give it a more enjoyable experience.</p>`,
 	"hostingAndDomainNameManagement": `<h3>Hosting and Domain Name Management</h3><p>From choosing the right host(s) to keeping your domain names easy to manage. I can help set up or facilitate wherever your sites currently are.</p>`,
 	"socialSharingIntegrations": `<h3>Social Sharing Integrations</h3><p>Want to set up easy social media sharing of your pages or posts? I can help on all social media platforms.</p>`
 }
